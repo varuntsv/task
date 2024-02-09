@@ -1,6 +1,3 @@
-# Git clone appplication
-    git clone "repo-name"
-
 # Install node modules
     npm install
 

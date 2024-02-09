@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
-import { coursesList, feeStructure, levelsList } from './Constants'
-import SelectionDropdown from './Components/SelectionDropdown'
+import { coursesList, feeStructure, levelsList } from '../Constants'
+import SelectionDropdown from '../Components/SelectionDropdown'
 
 const FeeDetail = () => {
     const [selections, setSelections] = useState({

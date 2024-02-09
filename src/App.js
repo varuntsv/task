@@ -1,7 +1,5 @@
 import './App.css';
-import Example from './Example';
-import Example2 from './Example2';
-import FeeDetail from './FeeDetail';
+import FeeDetail from './Pages/FeeDetail';
 
 function App() {
   return (
